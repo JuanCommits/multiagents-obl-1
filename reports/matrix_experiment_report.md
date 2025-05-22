@@ -158,3 +158,7 @@ Cuando se enfrentan entre ellos de igual manera ninguno se logra sobreponer sobr
 RM tiende a explorar una mayor cantidad de acciones que FP.
 FP tiende a explotar los patrones de juegos asumiendo que son estacionarios.
 Cuando se enfrenta FP contra si mismo se puede visualizar claramente como cada agente reacciona a la acción del oponente creando "estaciones".
+
+
+
+Se pueden ver más experimentos en la carpeta de `resultados`.

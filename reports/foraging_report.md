@@ -134,3 +134,6 @@ Por último cabe mencionar que JAL-AM tiende a ser un agente más estable en el 
 - Experimentar con funciones de aproximación
 - Experimentar con mayo cantidad de iteraciones principalmente para los agentes IQL.
 - Analizar el impacto de la memoria en JAL-AM
+
+
+Se pueden ver más experimentos en la carpeta de `resultados`.
