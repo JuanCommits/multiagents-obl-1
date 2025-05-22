@@ -1,0 +1,5 @@
+from agents.fictitiousplay import FictitiousPlay
+from agents.random_agent import RandomAgent
+from agents.regretmatching import RegretMatching
+from agents.q_learning_agent import QLearningAgent
+from agents.jal_am import JointActionLearningActionModelling
